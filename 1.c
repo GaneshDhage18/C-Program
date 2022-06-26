@@ -17,7 +17,7 @@ int main()
 
     else if (age > 3)
     {
-        printf("your your between 3 to 10 and you can vote for babies\n");
+        printf("your your between 3 to 10 and you can vote for bebies\n");
     }
 
     return 0;
